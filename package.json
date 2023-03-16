@@ -1,0 +1,23 @@
+{
+  "name": "fynnbot",
+  "version": "1.0.0",
+  "description": "a discord bot based on fynn journeyman",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sh1eldma1den/fynnbot.git"
+  },
+  "author": "Megan Moore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sh1eldma1den/fynnbot/issues"
+  },
+  "homepage": "https://github.com/sh1eldma1den/fynnbot#readme",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "winston": "^3.8.2"
+  }
+}
